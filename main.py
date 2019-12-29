@@ -14,7 +14,7 @@ def get_html():
     return html
 
 def main():
-    count = input('Сколько скачать картинок, черный треугольник? ')
+    count = input('Сколько скачать картинок, мой господин? ')
     pic_count = int(count)
     global url_first3
     url_first3 = input('Введи 3 символа: ')
